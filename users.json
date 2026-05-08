@@ -12,7 +12,7 @@
     {
       "email": "he.man.sohrabiy@gmail.com",
       "password": "h2010",
-      "subscription": "normal",
+      "subscription": "pro",
       "expiry_date": "2026-10-05",
       "device_id": "d9149b3c3e601ce3cb979947be6c3fd6",
       "active": true,
@@ -20,5 +20,5 @@
     }
   ],
   "system_active": true,
-  "last_updated": "2026-05-08T16:23:40.358Z"
+  "last_updated": "2026-05-08T17:45:15.450Z"
 }
