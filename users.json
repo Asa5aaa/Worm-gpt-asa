@@ -3,7 +3,7 @@
     {
       "email": "asa",
       "password": "asa",
-      "subscription": "normal",
+      "subscription": "pro",
       "expiry_date": "2036-06-03",
       "device_id": "adead567d834ea238ac0088037665320",
       "active": true,
