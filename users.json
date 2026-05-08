@@ -8,8 +8,17 @@
       "device_id": "adead567d834ea238ac0088037665320",
       "active": true,
       "created_at": "2026-05-04 18:54:24.135768"
+    },
+    {
+      "email": "he.man.sohrabiy@gmail.com",
+      "password": "h2010",
+      "subscription": "normal",
+      "expiry_date": "2026-10-05",
+      "device_id": "d9149b3c3e601ce3cb979947be6c3fd6",
+      "active": true,
+      "created_at": "2026-05-08 15:31:07.842488"
     }
   ],
   "system_active": true,
-  "last_updated": "2026-05-04 18:54:24.135772"
+  "last_updated": "2026-05-08 15:31:41.271359"
 }
